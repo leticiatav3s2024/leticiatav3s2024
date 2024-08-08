@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil :pink_heart
+## Bem vindo ao meu perfil 🩷
 Meu nome é Leticia Soares Pereira Tavares
 Sou aluna do Alura e estou no terceiro ano do ensino médio
 utilizo esse espaço para compartilhamento dos meus projetos desenvolvidos em aula 
